@@ -1,0 +1,9 @@
+{
+  "Name": "Alice",
+  "Age": 25,
+  "IsMarried": false,
+  "Address": {
+    "City": "San Francisco",
+    "State": "NY"
+  }
+}

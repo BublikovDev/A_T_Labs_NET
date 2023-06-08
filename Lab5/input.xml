@@ -1,0 +1,9 @@
+﻿<person>
+	<name>John</name>
+	<age>30</age>
+	<isMarried>true</isMarried>
+	<address>
+		<city>New York</city>
+		<state>NY</state>
+	</address>
+</person>
